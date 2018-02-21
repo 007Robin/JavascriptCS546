@@ -1,5 +1,14 @@
 # JavascriptCS546
 some practices 
 
-this is a test
+git clone http://xxxx
+git status
 
+git add .
+git add file.txt
+
+git commit -m "some opeartion description to repository"
+
+git push
+
+git log
