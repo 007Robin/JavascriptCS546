@@ -1,0 +1,15 @@
+{
+  "name": "cs-546-lab-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": ¡°node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin_Song_10431021",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

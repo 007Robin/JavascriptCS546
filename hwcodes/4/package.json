@@ -1,0 +1,16 @@
+{
+  "name": "xin-song-10431021",
+  "version": "1.0.0",
+  "description": "Lab4-OurFirstToDo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin_Song_10431021",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "uuid": "^3.2.1"
+  }
+}

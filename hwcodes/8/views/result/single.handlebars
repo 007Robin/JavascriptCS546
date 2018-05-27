@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>The Best Palindrome Checker in the World!</title>
+    <link rel="stylesheet" href="/public/site.css">
+</head>
+
+<body>
+    <main class="container">
+        <div class="header">
+        <h1>The Best Palindrome Checker in the World!</h1>
+        <p>
+            A palindrome is a phrase that is spelled the same way, backwards and forwards (ignoring spacing and punctuation; only alphanumeric characters matter).
+            For example, the following phrases are palindromes: "Madam", "Was it a cat I saw?", "He did, eh?".
+            
+        </p>
+        </div>
+
+		<div class="row">
+			<div class="col-sm-6">
+				<form id="static-form" method="POST" action="/result">
+					<div class="form-group">
+						<label for="Input">Input Text</label>
+						<input type="text" id="Input" name="text-to-test" placeholder="Input Text" value="{{InputText}}">
+						<button type="submit">Submit</button>
+					</div>
+				</form>
+			</div>
+		</div>
+
+   </main>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "lab7-recipe-api",
+  "version": "1.0.0",
+  "description": "A Recipe API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin_Song_10431021",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4",
+    "node-uuid": "^1.4.8",
+    "uuid": "^3.2.1"
+  }
+}
