@@ -1,0 +1,8 @@
+//start mongodb
+/usr/local/bin 
+use ./mongod to check state
+use ./mongo to start
+show dbs
+use Eatnow
+show collections
+db.users.findOne()
